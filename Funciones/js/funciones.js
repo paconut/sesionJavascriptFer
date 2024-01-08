@@ -176,10 +176,24 @@ const minusculasFlecha = (texto) => texto.toLowerCase();
 function perimetroCirculo(r) {
     return 2 * r * 3.14;
 }
-console.log(perimetroCirculo(1 / 2));
 
 const areaRectangulo = (l1, l2) => l1 * l2;
-console.log(areaRectangulo(1, 2));
+
+function cuadrado(num) {
+    return num * num;
+}
+
+function celsiusAFarenheit(grados) {
+    return ((grados * 9 / 5) + 32);
+}
+
+function Ohm(resistencia, corriente) {
+    return resistencia * corriente;
+}
+
+function volumenEsfera(r) {
+    return 4 * r * r * r * 3.14 / 3;
+}
 
 
 
