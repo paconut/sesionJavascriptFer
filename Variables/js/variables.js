@@ -248,9 +248,48 @@ let num2Number = Number(num2);
  *  CONSIDERACIONES: poner en practica las mejores practicas para declaracion de variables.
  * Imprimir los resultados en pantalla con un console.log()
  */
-mensaje1 = "Hola";
-mensaje2 = "Mundo";
-mensaje3 = "3"
+let numero1 = 1;
+let numero2 = 2;
+let numero3 = 3;
+let numero4 = 4;
+let numero5 = 5;
+let numero6 = 6;
+let numero7 = 7;
+let numero8 = 8;
+let numero9 = 9;
+let numero0 = 0;
+let mensaje1 = "1";
+let mensaje2 = "2";
+let mensaje3 = "3";
+let mensaje4 = "4";
+let mensaje5 = "5";
+let mensaje6 = "6";
+let mensaje7 = "7";
+let mensaje8 = "8";
+let mensaje9 = "9";
+let mensaje0 = "0";
+let buleano1 = true;
+let buleano2 = true;
+let buleano3 = true;
+let buleano4 = true;
+let buleano5 = true;
+let buleano6 = true;
+let buleano7 = true;
+let buleano8 = true;
+let buleano9 = true;
+let buleano0 = true;
+let suma = numero1 + numero2;
+let resta = numero1 - numero2;
+let multiplicacion = numero1 * numero2;
+let division = numero1 / numero2;
 console.log(mensaje1 + " " + mensaje2);
+console.log(mensaje3 + " " + mensaje4);
+console.log(mensaje5 + " " + mensaje6);
+console.log(mensaje7 + " " + mensaje8);
+console.log(mensaje9 + " " + mensaje0);
+let mensaje1Number = Number(mensaje1)
+let mensaje2Number = Number(mensaje2)
 let mensaje3Number = Number(mensaje3)
-console.log(mensaje3);
+let mensaje4Number = Number(mensaje4)
+let mensaje5Number = Number(mensaje5)
+console.log(mensaje3Number);
